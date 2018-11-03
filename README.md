@@ -7,6 +7,7 @@ python xor_tf.py
 ```
 
 Training curve:
+
 ![assets](assets/training_loss.png)
 
 
